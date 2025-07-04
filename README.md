@@ -16,7 +16,7 @@ of this application also consists of hosting events alongside sharing messages b
 
 ###### **_**As of making the application, the project was moved from phase1 to phase2 folder, this may cause the division of work to be misinterpreted. Hence, we suggest seeing the git logs to see the contribution logs of each file.**_**
 # Cloning the repository
-- Run `GIT CLONE https://github.com/Rahdin/Social-Media-App.git` in a directory where you would like to store this repository.
+- Run `git clone https://github.com/Rahdin/Social-Media-App.git` in a directory where you would like to store this repository.
 
 # Opening the project in Intellij and prerequisites
 - Due to the use of file paths in this project (to read from txt files), it is important that the project is opened in the right directory. Otherwise, some portions of code will fail to run.
