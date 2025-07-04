@@ -16,13 +16,13 @@ of this application also consists of hosting events alongside sharing messages b
 
 ###### **_**As of making the application, the project was moved from phase1 to phase2 folder, this may cause the division of work to be misinterpreted. Hence, we suggest seeing the git logs to see the contribution logs of each file.**_**
 # Cloning the repository
-- Run `https://markus.teach.cs.toronto.edu/git/2022-05/csc207/group_0799` in a directory where you would like to store this repository.
+- Run `GIT CLONE https://github.com/Rahdin/Social-Media-App.git` in a directory where you would like to store this repository.
 
 # Opening the project in Intellij and prerequisites
 - Due to the use of file paths in this project (to read from txt files), it is important that the project is opened in the right directory. Otherwise, some portions of code will fail to run.
 - Please open the `phase2` folder which is found within the `group_0799` folder.
 - In order to run tests `junit` must be installed. Please go to File | Project Structure. Under Project Settings, select Libraries and click on the `+` button and select Java. Search for the latest version of `junit` and ensure it's installed properly.
-- Before running the Application, it's important to ensure proper read-write to and from the text files that the application will use. Please run `commentDataGenerator.java`, `eventDataGenerator.java`, `likeDataGenerator.java`, `messageDataGenerator.java`, `postDataGenerator.java`, `userDataGenerator.java`
+- Before running the Application, it's important to ensure proper read-write to and from the text files that the application will use. Please run `commentDataGenerator.java`, `eventDataGenerator.java`, `likeDataGenerator.java`, `messageDataGenerator.java`, `postDataGenerator.java`, `userDataGenerator.java` 
 individually before you run the `App.java` file.
 
 # Running the application
